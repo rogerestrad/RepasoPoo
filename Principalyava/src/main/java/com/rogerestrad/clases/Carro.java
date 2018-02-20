@@ -9,7 +9,8 @@ int modelo;
 public static String color;
 public String nombre;
    public Carro(String nombre){
-       this.nombre=nombre;
+       this.nombre=
+               nombre;
    }
     public void datosVehiculo(){
         int y = 90;
