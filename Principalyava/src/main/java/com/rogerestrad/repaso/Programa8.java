@@ -17,6 +17,6 @@ public class Programa8 {
             System.out.println(nombre);
         System.out.println("tu nombre se repitio "+x+" veces ");
 
-
+   
     }
 }
